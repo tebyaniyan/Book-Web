@@ -1,0 +1,46 @@
+﻿body 
+{
+	margin: 0;
+	padding: 0;
+	font: normal 0.7em/1.4em Tahoma, Verdana, Arial, Georgia, sans-serif;
+	text-align: center;
+}
+
+.btn
+{
+	font: normal  12px Tahoma, Verdana, Arial, Georgia, sans-serif;
+	width:100px;
+	height:25px;
+}
+.txt
+{
+	font: normal  12px Tahoma, Verdana, Arial, Georgia, sans-serif;
+	text-align:right;
+	width:150px;
+}
+
+#logo
+{
+	font-size:25pt;
+	color:White;
+	height:30px;
+	vertical-align:baseline;
+	padding-top:25px;
+	padding-left:15px;
+}
+A
+{
+	color:White;
+	text-decoration:none;
+}
+
+#Subject
+{
+	font-size:25pt;
+	color:White;
+	height:30px;
+	vertical-align:baseline;
+	padding-top:25px;
+	padding-right:15px;
+	font-family:Arial;
+}
